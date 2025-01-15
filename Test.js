@@ -1,5 +1,6 @@
 function testAAA() {
   console.log("testAAA");
+  console.log('testBBB')
   console.log("testDDD");
 }
 
