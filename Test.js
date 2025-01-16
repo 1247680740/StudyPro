@@ -33,3 +33,7 @@ function testIIII() {
 function testLLL() {
   console.log("testLLLL");
 }
+
+function testKKK() {
+  console.log("testKKK");
+}
