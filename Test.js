@@ -6,6 +6,7 @@ function testAAA() {
 
 function testCCC() {
   console.log("testCCC");
+  console.log("testFFFF");
 }
 
 function testDDD() {
