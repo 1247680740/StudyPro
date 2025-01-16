@@ -27,3 +27,7 @@ function testPPP() {
 function testLLL() {
   console.log("testLLLL");
 }
+
+function testKKK() {
+  console.log("testKKK");
+}
