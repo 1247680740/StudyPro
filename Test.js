@@ -1,6 +1,6 @@
 function testAAA() {
   console.log("testAAA");
-  console.log('testBBB')
+  console.log("testBBB");
   console.log("testDDD");
 }
 
@@ -10,4 +10,5 @@ function testCCC() {
 
 function testDDD() {
   console.log("testDDD");
+  console.log("testEEE");
 }
