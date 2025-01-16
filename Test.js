@@ -17,3 +17,9 @@ function testDDD() {
   console.log("testDDD");
   console.log("testEEE");
 }
+
+function testPPP() {
+  console.log("testPPP");
+  console.log("testQQQ");
+  console.log("testRRR");
+}
