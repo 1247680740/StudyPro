@@ -28,3 +28,8 @@ function testEEE() {
   console.log("testEEE");
   console.log("testFFF");
 }
+
+function testGGG() {
+  console.log("testGGG");
+  console.log("testHHH");
+}
