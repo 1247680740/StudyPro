@@ -29,3 +29,21 @@ function testIIII() {
   console.log("testJJJJ");
   console.log("testKKKK");
 }
+
+function testLLL() {
+  console.log("testLLLL");
+}
+
+function testKKK() {
+  console.log("testKKK");
+}
+
+function testIIII() {
+  console.log("testIIII");
+  console.log("testJJJJ");
+  console.log("testKKKK");
+}
+
+function testLLL() {
+  console.log("testLLLL");
+}
