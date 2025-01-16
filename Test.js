@@ -23,3 +23,8 @@ function testPPP() {
   console.log("testQQQ");
   console.log("testRRR");
 }
+
+function testEEE() {
+  console.log("testEEE");
+  console.log("testFFF");
+}
